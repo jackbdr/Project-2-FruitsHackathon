@@ -12,9 +12,9 @@ Visit [Fruity 4 You](https://fruity-4-you.netlify.app/)
 https://www.fruityvice.com/
 
 ### Code installation
-Clone or download the repo
-Install Yarn with terminal command: yarn 
-Start server with terminal command: yarn start
+* Clone or download the repo
+* Install Yarn with terminal command: yarn 
+* Start server with terminal command: yarn start
 
 ### The brief
 **Consume a public API**
@@ -25,18 +25,18 @@ Start server with terminal command: yarn start
 ​
  
 ### Technologies used 
-Front-end:
-React
-Axios
-SCSS
-Bootstrap
-Dev tools:
-VS code
-Git 
-GitHub
-Insomnia
-Excalidraw (wireframes)
-Netlify (deployment)
+* Front-end:
+* React
+* Axios
+* SCSS
+* Bootstrap
+* Dev tools:
+* VS code
+* Git 
+* GitHub
+* Insomnia
+* Excalidraw (wireframes)
+* Netlify (deployment)
 
 ## Process
 
