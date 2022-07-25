@@ -17,12 +17,12 @@ https://www.fruityvice.com/
 * Start server with terminal command: yarn start
 
 ### The brief
-**Consume a public API**
-**Have several components**
-**The app can have a router**
-**Include wireframes**
-**Be deployed online**
-​
+* **Consume a public API**
+* **Have several components**
+* **The app can have a router**
+* **Include wireframes**
+* **Be deployed online**
+
  
 ### Technologies used 
 * Front-end:
