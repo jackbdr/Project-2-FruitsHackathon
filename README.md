@@ -223,18 +223,18 @@ We were sure the code we had written should work. The routes to the images were 
 
 ## Bugs and Blockers
 
-We lost quite a bit of time with the CORS and this set us back
-Navbar should only display once user has scrolled down to it
-On the index page, the links to individual fruits are wider than the actual cards which display the fruit
+* We lost quite a bit of time with the CORS and this set us back
+* Navbar should only display once user has scrolled down to it
+* On the index page, the links to individual fruits are wider than the actual cards which display the fruit
 
 
 ## Wins
-We worked well as a team, splitting up tasks evenly and keeping in contact
-This was also our first experience of group coding and taught us the value of it
-We were very pleased to add the salad-maker functionality to our app as it gave it a real world use
+* We worked well as a team, splitting up tasks evenly and keeping in contact
+* This was also our first experience of group coding and taught us the value of it
+* We were very pleased to add the salad-maker functionality to our app as it gave it a real world use
 
 
 ## Future improvements
-Register and log in
-Add/ edit fruits
-Smoothie-maker with possibilities of adding own ingredients with nutritional information (e.g. ice-cream)
+* Register and log in
+* Add/ edit fruits
+* Smoothie-maker with possibilities of adding own ingredients with nutritional information (e.g. ice-cream)
