@@ -30,6 +30,7 @@ Front-end:
 * Axios
 * SCSS
 * Bootstrap
+
 Dev tools:
 * VS code
 * Git 
