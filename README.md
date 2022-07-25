@@ -6,7 +6,7 @@ A two day hackathon as a group of three, this was my first experience of creatin
 
 Fruity 4 You is an app where you can create your own fruit salads and keep track of the nutritional information. 
 
-Visit Fruity 4 You 
+Visit [Fruity 4 You](https://fruity-4-you.netlify.app/) 
 
 ### API used
 https://www.fruityvice.com/
