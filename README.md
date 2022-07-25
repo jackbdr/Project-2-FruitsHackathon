@@ -25,12 +25,12 @@ https://www.fruityvice.com/
 
  
 ### Technologies used 
-* Front-end:
+Front-end:
 * React
 * Axios
 * SCSS
 * Bootstrap
-* Dev tools:
+Dev tools:
 * VS code
 * Git 
 * GitHub
