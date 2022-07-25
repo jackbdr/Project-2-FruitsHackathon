@@ -61,6 +61,7 @@ We used Excaidraw for our wireframes and also a bit of pseudocoding for the sala
 
 <img width="821" alt="Project 2 Excal" src="https://user-images.githubusercontent.com/101710474/180813664-a83ac4f0-43e8-4521-a82f-e7697ddce69e.png">
 <img width="821" alt="Project 2 Excal2" src="https://user-images.githubusercontent.com/101710474/180814209-c9d32d55-cc35-4f14-b467-9f75d1ce485a.png">
+<img width="821" alt="Project 2 Excal3" src="https://user-images.githubusercontent.com/101710474/180815061-a2a553c8-8d3b-4a2a-9b39-7662e65e6a47.png">
 
 
 ### Salad maker 
