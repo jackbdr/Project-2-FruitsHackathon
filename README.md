@@ -60,7 +60,7 @@ This was great news as we were keen on getting the salad maker functionality goi
 We used Excaidraw for our wireframes and also a bit of pseudocoding for the salad maker.
 
 <img width="821" alt="Project 2 Excal" src="https://user-images.githubusercontent.com/101710474/180813664-a83ac4f0-43e8-4521-a82f-e7697ddce69e.png">
-<img width="821" alt="Project 2 Excal2 src="https://user-images.githubusercontent.com/101710474/180814209-c9d32d55-cc35-4f14-b467-9f75d1ce485a.png">
+<img width="821" alt="Project 2 Excal2" src="https://user-images.githubusercontent.com/101710474/180814209-c9d32d55-cc35-4f14-b467-9f75d1ce485a.png">
 
 
 ### Salad maker 
