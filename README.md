@@ -224,7 +224,7 @@ We were sure the code we had written should work. The routes to the images were 
 ## Bugs and Blockers
 
 * We lost quite a bit of time with the CORS and this set us back
-* Navbar should only display once user has scrolled down to it
+* Footer should only display once user has scrolled down to it
 * On the index page, the links to individual fruits are wider than the actual cards which display the fruit
 
 
@@ -238,3 +238,4 @@ We were sure the code we had written should work. The routes to the images were 
 * Register and log in
 * Add/ edit fruits
 * Smoothie-maker with possibilities of adding own ingredients with nutritional information (e.g. ice-cream)
+* Mobile friendly
